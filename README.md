@@ -1,3 +1,2 @@
 # Sending.network
-# The largest heading
-Our products will be available to you soon
+## Our products will be available to you soon
