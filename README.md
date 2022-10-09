@@ -5,7 +5,9 @@ The protocol offers users complete control of their IDs, social graph, and perso
 
 For access to the source code and documentation, please email developer@sending.me. Once your request is processed, you will receive an email with links to the SDK, API Documentation, and Quickstart tutorials.
 
-Please visit https://sending.network/ for more information.
+Enjoy your Sending.Network journey.
 
-Enjoy your Sending.Network Journey.
-
+## Resources
+* [Sending.Network Website](https://sending.network/)<br>
+* [Sending.Network Telegram](https://web.telegram.org/z/#-854016560)<br>
+* [Sending.Network Twitter](https://twitter.com/Sending_Network)<br>
