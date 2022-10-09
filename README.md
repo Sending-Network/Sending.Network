@@ -1,3 +1,11 @@
 # Sending.Network
-## Our products will be released soon
-If you want to contact us, please go to our official website([sending.network](https://sending.network/)), and leave your email, and we will notify you as soon as possible.
+Sending.Network is a fully decentralized and secure communication content distribution network with high performance, providing broad series of personalized settings featuring diverse messaging needs. You can quickly build, integrate and customize Sending.Network with developer tools and turn ideas into solutions,
+
+The protocol offers users complete control of their IDs, social graph, and personal data. Communication on Sending.Network is not subject to legal jurisdiction, which facilitates censorship-free messaging since all data is transmitted and stored on a decentralized Peer-to-Peer (P2P) network.
+
+For access to the source code and documentation, please email developer@sending.me. Once your request is processed, you will receive an email with links to the SDK, API Documentation, and Quickstart tutorials.
+
+Please visit https://sending.network/ for more information.
+
+Enjoy your Sending.Network Journey.
+
