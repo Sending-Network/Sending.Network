@@ -9,5 +9,3 @@ Enjoy your Sending.Network journey.
 
 ## Resources
 * [Sending.Network Website](https://sending.network/)<br>
-* [Sending.Network Telegram](https://web.telegram.org/z/#-854016560)<br>
-* [Sending.Network Twitter](https://twitter.com/Sending_Network)<br>
