@@ -1,11 +1,18 @@
 # Sending.Network
-Sending.Network is a fully decentralized and secure communication content distribution network with high performance, providing broad series of personalized settings featuring diverse messaging needs. You can quickly build, integrate and customize Sending.Network with developer tools and turn ideas into solutions,
+Sending.Network (SDN) is an open, secure web3 communication infrastructure that powers decentralized user interactions - enabling users to chat, trade and socialize seamlessly within and across applications. We provide customized and easy-to-install chatting solutions for Web3 Gaming, Wallets and general Dapp developers.
 
-The protocol offers users complete control of their IDs, social graph, and personal data. Communication on Sending.Network is not subject to legal jurisdiction, which facilitates censorship-free messaging since all data is transmitted and stored on a decentralized Peer-to-Peer (P2P) network.
+## Documentation
 
-For access to the source code and documentation, please email developer@sending.me. Once your request is processed, you will receive an email with links to the SDK, API Documentation, and Quickstart tutorials.
+Please refer to our [Documentation page](http://sending-network.gitbook.io) for more details.
 
-Enjoy your Sending.Network journey.
+## License
+
+Sending.Network SDK is under Apache License.
 
 ## Resources
-* [Sending.Network Website](https://sending.network/)<br>
+
+Official Website: www.sending.network
+
+Twitter: https://twitter.com/Sending_Network
+
+Email: developer@sending.network
